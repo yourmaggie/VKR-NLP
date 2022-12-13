@@ -1,0 +1,5 @@
+nltk
+pymystem3
+matplotx
+matplotlib
+pandas
